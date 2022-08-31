@@ -10,6 +10,7 @@ in this portfolio including below
 
 
 ######## EVERYTHING ABOUT ME ! ########
+
 I'm AEKKAVIT LEIM. I graduated with Science and Food Technology, from King Mongkut's Institute of Technology Ladkrabang. 
 
 I tried to enrolled the Food-Sci job as should be in previously years then NO ONE accept me to work with them cause I DIDN'T CLEARIFY ABOUT MILITARY STATUS, 
