@@ -24,4 +24,5 @@ In 2022, I saw Data Science Bootcamp #5 by DataRockie. I registed this course an
 So,I really want to be as Data Analyst
 
    AEKKAVIT LEIM
+   
 (to be)Data Analyst
