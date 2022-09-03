@@ -2,6 +2,7 @@
 My Portfolio to showing the Data Analyst projects. 
 
 
+## My skills
 in this portfolio including below
 1. Databases: NICKKy's restaurant(SQL) , Query by Question(SQL)
 2. R Programming: Pao-Ying-Chup Game!(R based), COVID-19 Infection by Data Transformation and Data Visualization(tidyverse, dplyr, ggplot2)
@@ -23,6 +24,6 @@ In 2022, I saw Data Science Bootcamp #5 by DataRockie. I registed this course an
 
 So,I really want to be as Data Analyst
 
-   AEKKAVIT LEIM
-   
-(to be)Data Analyst
+
+
+AEKKAVIT LEIM
